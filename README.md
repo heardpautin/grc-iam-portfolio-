@@ -1,7 +1,3 @@
-
-
-
-
 # GRC & IAM Portfolio Artifacts
 
 ![Security+](https://img.shields.io/badge/Cert-Security%2B-brightgreen)
@@ -26,15 +22,19 @@ The document demonstrates how access is provisioned and limited based on job fun
 
 This portfolio demonstrates role-based access control (RBAC) principles that directly map to Microsoft Entra Identity Governance features:
 
-- **Access Packages** bundle roles, resource access, and policies for simplified user onboarding.  
 - **Conditional Access** enforces adaptive, risk-based controls to ensure least privilege.  
-- **Entitlement Management** supports delegated access reviews and lifecycle management.  
+- **Entitlement Management** supports delegated access reviews and lifecycle management.
+  • Entitlement Management  
+  [Entitlement Management Overview](https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview)  
+  Includes Access Packages, which enable managing user access through bundled resources, with approval workflows and lifecycle management.  
+  This is a key feature for implementing access governance in Microsoft Entra ID.
+  *Includes Access Packages, which enable managing user access through packaged resources with approval workflows and lifecycle management. This is a key feature for implementing governance and access controls in Microsoft Entra ID.*
+
 - **Managed Identities** enable secure service-to-service authentication, complementing human user access.
 
 I am actively expanding this portfolio with hands-on labs and projects targeting the [SC-300 Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/certifications/exams/sc-300/) certification and other Microsoft Entra learning paths:  
 
 - [Microsoft Entra Overview](https://learn.microsoft.com/en-us/entra/)  
-- [Access Packages](https://learn.microsoft.com/en-us/entra/governance/access-packages-overview)  
 - [Conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview)  
 - [Entitlement Management](https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview)  
 
