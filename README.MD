@@ -15,7 +15,7 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 
 - **📋 Access Review Report (Markdown)**  
   A detailed summary of a periodic access review for key systems aligned with the RBAC matrix.  
-  Demonstrates user access validation, findings, remediation, and compliance with industry standards.
+  [View the full report](./access-review-report.md)
 
 ---
 
