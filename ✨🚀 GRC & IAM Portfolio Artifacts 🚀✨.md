@@ -38,7 +38,7 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 
 - **📊 Full RBAC Matrix Spreadsheet (Excel)**  
   Detailed role, application, access level, and control mappings with notes for compliance and governance.  
-  [Download/View here](./rbac-matrix.xlsx)
+  [Download/View here](./rbac-matrix-styled.xlsx)
 
 # RBAC Matrix Summary & Compliance Overview
 
