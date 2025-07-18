@@ -1,62 +1,32 @@
 # GRC & IAM Portfolio Artifacts
 
-![Security+](https://img.shields.io/badge/Cert-Security%2B-brightgreen)
-![ISO 27001](https://img.shields.io/badge/Standard-ISO%202700-blue)
-![NIST](https://img.shields.io/badge/Framework-NIST-orange)
-![Excel](https://img.shields.io/badge/Tool-Excel-green)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black)
+This repository contains Governance, Risk & Compliance (GRC) and Identity and Access Management (IAM) artifacts designed to demonstrate role-based access control (RBAC) principles and compliance documentation aligned to industry standards such as ISO/IEC 27001 and NIST 800-53.
 
-This repository contains Governance, Risk & Compliance (GRC) and Identity and Access Management (IAM) artifacts, focusing on role-based access control and access governance aligned to industry standards.
+## Artifacts Included
 
-## Artifacts
+- **RBAC Matrix (CSV)**  
+  A generalized role-to-application access mapping for a financial institution context (e.g., credit union). This matrix aligns organizational roles, systems, and permissions with relevant security and compliance controls.
 
-### Department Role Access Summary (GRC-Aligned)
+- **GRC Control Documentation Template (Markdown)**  
+  Sample documentation for key controls such as User Access Provisioning and Information Classification, reflecting industry frameworks and regulatory requirements.
 
-This spreadsheet generalizes role-based access control (RBAC) mappings for a financial institution context, such as a credit union. It aligns organizational roles, systems, and access permissions with relevant security and compliance frameworks.
+## Privileged Access Management Note
 
-The document demonstrates how access is provisioned and limited based on job function and business need, supporting key governance frameworks like ISO 27001 and NIST 800-53. It documents access levels, scheduling constraints (e.g., days access is required), and control objectives, serving as evidence for compliance audits and access reviews.
-
----
-
-## Microsoft Entra & Cloud Identity Alignment
-
-This portfolio demonstrates role-based access control (RBAC) principles that directly map to Microsoft Entra Identity Governance features:
-
-- **Conditional Access** enforces adaptive, risk-based controls to ensure least privilege.  
-- **Entitlement Management** supports delegated access reviews and lifecycle management.
-  • Entitlement Management  
-  [Entitlement Management Overview](https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview)  
-  Includes Access Packages, which enable managing user access through bundled resources, with approval workflows and lifecycle management.  
-  This is a key feature for implementing access governance in Microsoft Entra ID.
-  *Includes Access Packages, which enable managing user access through packaged resources with approval workflows and lifecycle management. This is a key feature for implementing governance and access controls in Microsoft Entra ID.*
-
-- **Managed Identities** enable secure service-to-service authentication, complementing human user access.
-
-I am actively expanding this portfolio with hands-on labs and projects targeting the [SC-300 Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/certifications/exams/sc-300/) certification and other Microsoft Entra learning paths:  
-
-- [Microsoft Entra Overview](https://learn.microsoft.com/en-us/entra/)  
-- [Conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview)  
-- [Entitlement Management](https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview)  
-
----
+> **Note:**  
+> The **IT Administrator** role represents privileged user management functions such as those performed by the Azure AD **User Administrator** role.  
+> While this role may not have full Global Administrator rights, it can reset passwords, manage accounts, and assign roles, posing significant security risk if compromised.  
+> Therefore, applying **Privileged Identity Management (PIM)**, **multi-factor authentication (MFA)**, and **strict access reviews** is essential to enforce least privilege and reduce attack surface.  
+> This control aligns with ISO/IEC 27001 Annex A.9.4.1 and supports Zero Trust security principles.
 
 ## Usage
 
-This repository and its artifacts can be used as:
-
-- A governance tool to map access permissions to roles.  
-- Documentation for internal or external audits.  
-- A sample for interviews showcasing real-world GRC/IAM knowledge.  
-
----
-
-*This example is generalized to protect proprietary information but is based on real-world IAM governance concepts.*
-
----
+- This repository can be used as a governance tool to map access permissions to roles.  
+- It serves as documentation for internal or external compliance audits.  
+- It provides practical examples for interviews to demonstrate GRC and IAM knowledge.
 
 ## About Me
 
-Certified Security+ professional with hands-on experience in IAM governance and GRC. Passionate about aligning technical access controls with compliance frameworks in regulated industries like healthcare and finance.
+Certified Security+ professional with hands-on experience in IAM governance and GRC, passionate about aligning technical access controls with compliance frameworks in regulated industries such as healthcare and finance.
 
 ---
 
