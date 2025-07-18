@@ -55,14 +55,14 @@ This Role-Based Access Control (RBAC) matrix aligns key organizational roles to 
 | Role                     | Application               | Access Level      | Control ID | Control Description                       | Notes                                           |
 |--------------------------|---------------------------|-------------------|------------|-------------------------------------------|-------------------------------------------------|
 | **Loan Officer**         | Core Banking System       | Read/Write        | A.9.2.1    | User Access Provisioning                  | Access based on job role and approval workflow  |
-| **Bank Teller**          | ATM Management System     | Read Only         | A.12.6.1   | Vulnerability Management                  | Limited to day shift hours                        |
-| **Risk Supervisor**      | Risk Analytics Platform   | Read/Write        | A.8.2.2    | Information Classification                | Restricted data classification enforced         |
-| **Vendor Management Manager** | Supplier Portal      | Read/Write        | A.9.2.1    | User Access Provisioning                  | Vendor access limited by contract                 |
-| **Audit Analyst**        | Audit Log System          | Read Only         | A.12.6.1   | Vulnerability Management                  | Access reviewed quarterly                          |
+| **Bank Teller**          | ATM Management System     | Read Only         | A.12.6.1   | Vulnerability Management                  | Limited to day shift hours                      |
+| **Risk Supervisor**      | Risk Analytics Platform   | Read/Write        | A.8.2.2    | Information Classification                | Restricted data classification enforced        |
+| **Vendor Management Manager** | Supplier Portal      | Read/Write        | A.9.2.1    | User Access Provisioning                  | Vendor access limited by contract              |
+| **Audit Analyst**        | Audit Log System          | Read Only         | A.12.6.1   | Vulnerability Management                  | Access reviewed quarterly                       |
 | **Security Guard**       | Building Access System    | Physical Access   | A.11.1.1   | Physical Security Perimeter               | Access managed via ID badges; reviewed quarterly |
-| **IT Administrator**     | Active Directory & Entra ID | Privileged Access | A.9.4.1  | System and Application Access Control    | Privileged access managed through PIM; MFA required |
+| **IT Administrator**     | Active Directory & Entra ID | Privileged Access | A.9.4.1  | System and Application Access Control     | Privileged access managed through PIM; MFA required |
 | **Backup Operator**      | Backup Management System  | Write/Restore     | A.12.3.1   | Backup Information                        | Access restricted to backup windows; encryption enforced |
-| **Incident Response Analyst** | SIEM & Security Tools | Read/Write       | A.16.1.5   | Response to Information Security Incidents | Incident data access controlled; actions logged and reviewed |
+| **Incident Response Analyst** | SIEM & Security Tools | Read/Write        | A.16.1.5   | Response to Information Security Incidents | Incident data access controlled; actions logged and reviewed |
 
 ---
 
