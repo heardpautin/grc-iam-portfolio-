@@ -7,9 +7,8 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 
 ## 🛡️ Artifacts Included
 
-- **📊 RBAC Matrix (CSV)**  
-  Generalized mappings of roles, applications, and permissions from a financial institution context.  
-  Demonstrates least privilege, access scheduling, and governance mappings.
+- **📊 RBAC Matrix (Embedded Table)**  
+  Full role-to-application access mappings aligned with compliance controls, shown directly here for easy review.
 
 - **📄 GRC Control Documentation Template (Markdown)**  
   Documentation for critical controls such as **User Access Provisioning** and **Information Classification**, built to support audits and compliance.
@@ -17,6 +16,22 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 - **📋 Access Review Report (Markdown)**  
   A detailed summary of a periodic access review for key systems aligned with the RBAC matrix.  
   Demonstrates user access validation, findings, remediation, and compliance with industry standards.
+
+---
+
+## RBAC Matrix Summary & Compliance Overview
+
+| Role                     | Application               | Access Level      | Control ID | Control Description                       | Notes                                           |
+|--------------------------|---------------------------|-------------------|------------|-------------------------------------------|------------------------------------------------|
+| **Loan Officer**          | Core Banking System       | Read/Write        | A.9.2.1    | User Access Provisioning                  | Access based on job role and approval workflow |
+| **Bank Teller**           | ATM Management System     | Read Only         | A.12.6.1   | Vulnerability Management                  | Limited to day shift hours                       |
+| **Risk Supervisor**       | Risk Analytics Platform   | Read/Write        | A.8.2.2    | Information Classification                | Restricted data classification enforced        |
+| **Vendor Management Manager** | Supplier Portal      | Read/Write        | A.9.2.1    | User Access Provisioning                  | Vendor access limited by contract                |
+| **Audit Analyst**         | Audit Log System          | Read Only         | A.12.6.1   | Vulnerability Management                  | Access reviewed quarterly                         |
+| **Security Guard**        | Building Access System    | Physical Access   | A.11.1.1   | Physical Security Perimeter               | Access managed via ID badges; reviewed quarterly|
+| **IT Administrator**      | Active Directory & Entra ID | Privileged Access | A.9.4.1  | System and Application Access Control    | Privileged access managed through PIM; MFA required |
+| **Backup Operator**       | Backup Management System  | Write/Restore     | A.12.3.1   | Backup Information                        | Access restricted to backup windows; encryption enforced |
+| **Incident Response Analyst** | SIEM & Security Tools | Read/Write       | A.16.1.5   | Response to Information Security Incidents | Incident data access controlled; actions logged and reviewed |
 
 ---
 
@@ -35,22 +50,6 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 - As a **governance reference** for role-to-access mapping  
 - To support **internal/external audits**  
 - As a **portfolio artifact** showcasing real-world GRC/IAM expertise
-
----
-
-## 🗂️ Artifacts
-
-- **📊 Full RBAC Matrix Spreadsheet (CSV)**  
-  Detailed role, application, access level, and control mappings with notes for compliance and governance.  
-  *(Available in `rbac-matrix.csv`)*
-
-- **📄 GRC Control Documentation Template**  
-  Compliance documentation supporting audit readiness and policy enforcement.  
-  *(Available in `grc-control-template.md`)*
-
-- **📋 Access Review Report**  
-  Summary report of user access validation aligned with RBAC matrix and industry standards.  
-  *(Available in `access-review-report.md`)*
 
 ---
 
