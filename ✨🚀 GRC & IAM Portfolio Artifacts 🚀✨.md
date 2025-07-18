@@ -1,4 +1,4 @@
-# ✨🚀 GRC & IAM Portfolio Artifacts 🚀✨
+# ✨🚀 GRC & IAM Portfolio🚀✨
 
 Welcome to my **Governance, Risk & Compliance (GRC)** and **Identity & Access Management (IAM)** portfolio!  
 This repository demonstrates **real-world RBAC (Role-Based Access Control)**, compliance documentation, and access governance aligned to **ISO/IEC 27001** and **NIST 800-53** standards.
