@@ -61,6 +61,14 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 - As a **portfolio artifact** showcasing real-world GRC/IAM expertise
 
 ---
+
+## 🧑‍💻 My Contribution
+
+I personally built and documented this portfolio to demonstrate real-world **IAM** and **GRC** expertise.  
+It showcases my ability to design **RBAC matrices**, create **audit-ready compliance templates**, and perform **access reviews** aligned to ISO 27001 and NIST 800-53.
+
+---
+---
 ## 👤 About Me
 
 I am a Certified Security+ professional with practical experience in IAM and GRC across healthcare and financial sectors. Skilled in designing and managing RBAC systems, performing access reviews, and aligning security controls with compliance frameworks including ISO/IEC 27001 and NIST 800-53. Passionate about building secure, auditable, and user-centric access governance solutions leveraging Azure AD/Entra ID and zero trust principles.
