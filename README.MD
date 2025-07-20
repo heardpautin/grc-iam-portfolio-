@@ -64,8 +64,7 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 
 ## 🧑‍💻 My Contribution
 
-I personally built and documented this portfolio to demonstrate real-world **IAM** and **GRC** expertise.  
-It showcases my ability to design **RBAC matrices**, create **audit-ready compliance templates**, and perform **access reviews** aligned to ISO 27001 and NIST 800-53.
+I personally built and documented this portfolio to demonstrate real-world **IAM** and **GRC** expertise. It showcases my ability to design **RBAC matrices**, create **audit-ready compliance templates**, and perform **access reviews** aligned to ISO 27001 and NIST 800-53.
 
 ---
 ---
