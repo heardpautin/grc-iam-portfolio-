@@ -41,19 +41,6 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 - **📋 Access Review Report (Markdown)**  
   A detailed summary of a periodic access review for key systems aligned with the RBAC matrix.  
   [View Access Review Report](./access-review-report.md)
-
-## 🛡️ Artifacts Included
-
-- **📊 RBAC Matrix (Embedded Table)**  
-  Full role-to-application access mappings aligned with compliance controls, shown directly here for easy review.
-
-- **📄 GRC Control Documentation Template (Markdown)**  
-  Documentation for critical controls such as **User Access Provisioning** and **Information Classification**, built to support audits and compliance.
-
-- **📋 Access Review Report (Markdown)**  
-  A detailed summary of a periodic access review for key systems aligned with the RBAC matrix.  
-  [View the full report](./access-review-report.md)
-
 ---
 
 ## RBAC Matrix Summary & Compliance Overview
