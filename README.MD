@@ -84,6 +84,25 @@ I am a Certified Security+ professional with practical experience in IAM and GRC
 
 ---
 
+## 🛠️ Skills & Tools Used
+
+- Azure AD / Microsoft Entra ID, Active Directory  
+- Role-Based Access Control (RBAC) & Access Reviews  
+- Compliance Frameworks: ISO 27001, NIST 800-53  
+- Privileged Identity Management (PIM) & MFA  
+- Audit-Ready Documentation & Reporting
+
+---
+
+## 🚧 Next Steps
+
+Planned portfolio additions:
+- **Terraform-powered IAM automation** for Entra ID and cloud resources  
+- **Conditional Access and access review automation** demos  
+- **GRC dashboards** for real-time compliance monitoring
+
+---
+
 ## 📬 Contact Me
 
 - **Email:** visionclear56@gmail.com  
