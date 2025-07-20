@@ -3,6 +3,14 @@
 Welcome to my **Governance, Risk & Compliance (GRC)** and **Identity & Access Management (IAM)** portfolio!  
 This repository demonstrates **real-world RBAC (Role-Based Access Control)**, compliance documentation, and access governance aligned to **ISO/IEC 27001** and **NIST 800-53** standards.
 
+## Table of Contents
+- [Artifacts Included](#-artifacts-included)
+- [RBAC Matrix Summary & Compliance Overview](#rbac-matrix-summary--compliance-overview)
+- [Privileged Access Management Note](#-privileged-access-management-note)
+- [Usage](#-usage)
+- [About Me](#-about-me)
+- [Contact Me](#-contact-me)
+
 ---
 
 ## 🛡️ Artifacts Included
@@ -52,10 +60,9 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 - As a **portfolio artifact** showcasing real-world GRC/IAM expertise
 
 ---
-
 ## 👤 About Me
 
-**Certified Security+ professional** with hands-on IAM and GRC experience, passionate about aligning access controls with compliance frameworks in **healthcare** and **finance**.
+I am a Certified Security+ professional with practical experience in IAM and GRC across healthcare and financial sectors. Skilled in designing and managing RBAC systems, performing access reviews, and aligning security controls with compliance frameworks including ISO/IEC 27001 and NIST 800-53. Passionate about building secure, auditable, and user-centric access governance solutions leveraging Azure AD/Entra ID and zero trust principles.
 
 ---
 
