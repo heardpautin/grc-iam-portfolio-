@@ -81,7 +81,9 @@ I am a Certified Security+ professional with practical experience in IAM and GRC
 - Compliance Frameworks: ISO 27001, NIST 800-53  
 - Privileged Identity Management (PIM) & MFA  
 - Audit-Ready Documentation & Reporting
+
 ---
+
 
 ## 🚧 Next Steps
 
@@ -96,7 +98,7 @@ Planned portfolio additions:
 
 - **Email:** visionclear56@gmail.com  
 - **LinkedIn:** [linkedin.com/in/craig-heard](https://www.linkedin.com/in/craig-heard)  
-- **GitHub:** [Craig’s GitHub](https://github.com/)  
+- **GitHub:** [Craig’s GitHub](https://github.com/heardpautin)
 
 ---
 
