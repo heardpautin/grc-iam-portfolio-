@@ -12,6 +12,7 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 - [Contact Me](#-contact-me)
 
 ---
+
 ## 🛡️ Artifacts Included
 
 - **📊 RBAC Matrix (Embedded Table)**  
@@ -25,6 +26,10 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 - **📋 Access Review Report (Markdown)**  
   A detailed summary of a periodic access review for key systems aligned with the RBAC matrix.  
   [View Access Review Report](./access-review-report.md)
+
+- **🤖 AI-Powered Access Review Report (Markdown)**  
+  AI-assisted analysis of RBAC access reviews, highlighting high-risk roles, review cadences, and compliance recommendations.  
+  [View AI Access Review Report](./access-review-ai.md)
 
 ---
 
@@ -83,7 +88,6 @@ I am a Certified Security+ professional with practical experience in IAM and GRC
 - Audit-Ready Documentation & Reporting
 
 ---
-
 
 ## 🚧 Next Steps
 
