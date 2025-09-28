@@ -11,11 +11,12 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 - [Privileged Access Management Note](#-privileged-access-management-note)
 - [Usage](#-usage)
 - [AI in GRC & IAM](#-ai-in-grc--iam)
+- - [📒 Risk Register & Audit Procedure](./risk-register.md)
 - [About Me](#-about-me)
 - [Skills & Tools](#-skills--tools-used)
 - [Next Steps](#-next-steps)
 - [Contact Me](#-contact-me)
-- Risk Register and Mini Audit Procedure
+  
 
 ---
 
