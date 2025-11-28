@@ -37,6 +37,8 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
   Explore how AI is transforming governance, risk, compliance, and identity management.  
   [View AI in GRC & IAM](./access-review-ai.md)
 
+  💻 IAM Policy as Code (Terraform) This directory contains the Terraform skeleton and variables designed to deploy Conditional Access (CA) Policies directly into Microsoft Entra ID. This work automates the enforcement of the access controls dictated by the RBAC Matrix and the requirements of the GRC Control Documentation Template, moving policy from documentation into code.
+
 ---
 
 ## RBAC Matrix Summary & Compliance Overview
