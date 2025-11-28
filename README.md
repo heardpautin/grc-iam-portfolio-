@@ -155,12 +155,12 @@ I built and documented this portfolio to demonstrate real-world **IAM** and **GR
 
 ---
 
-## 🚧 Next Steps
+## 🚧 Active Development
 
 Planned portfolio additions:
 - **Terraform-powered IAM automation** for Entra ID and cloud resources  
 - **Conditional Access and access review automation** demos leveraging AI  
-- **GRC dashboards** for real-time compliance monitoring with AI insights  
+- **GRC dashboards** for real-time compliance monitoring with AI insights
 - **Policy & Procedure Documentation Repo**  
 - **Risk Assessment & Management Project**  
 - **Compliance Audit Checklists & Evidence Collection**
