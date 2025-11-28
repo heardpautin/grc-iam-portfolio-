@@ -40,7 +40,7 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 
 * **💻 IAM Policy as Code (Terraform)**
 This directory contains the IaC skeleton for deploying **Conditional Access policies** and defines a realistic *Training Records Analyst" IAM Role**. This demonstrates translating the complexity of the **RBAC Matrix** into automated, least-privilege role definition.
-**[View IAM Policy Code](iam-policy-as-code2)**
+**[View IAM Policy Code2](iam-policy-as-code2)**
 
 ---
 
