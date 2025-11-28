@@ -7,6 +7,7 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 
 ## Table of Contents
 - [Artifacts Included](#-artifacts-included)
+-   * [💻 IAM Policy as Code (Terraform)](#💻-iam-policy-as-code-terraform)
 - [RBAC Matrix Summary & Compliance Overview](#rbac-matrix-summary--compliance-overview)
 - [Privileged Access Management Note](#-privileged-access-management-note)
 - [Usage](#-usage)
