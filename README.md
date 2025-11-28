@@ -7,7 +7,7 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 
 ## Table of Contents
 - [Artifacts Included](#-artifacts-included)
-- [IAM Policy Code2](iam-policy-as-code2)
+- [IAM Policy as Code2](iam-policy-as-code2)
 - [RBAC Matrix Summary & Compliance Overview](#rbac-matrix-summary--compliance-overview)
 - [Privileged Access Management Note](#-privileged-access-management-note)
 - [Usage](#-usage)
