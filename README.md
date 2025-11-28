@@ -11,6 +11,7 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
 - [Privileged Access Management Note](#-privileged-access-management-note)
 - [Usage](#-usage)
 - [AI in GRC & IAM](#-ai-in-grc--iam)
+- [IAM Policy as Code](#💻-iam-policy-as-code-terraform)
 - [About Me](#-about-me)
 - [Skills & Tools](#-skills--tools-used)
 - [Next Steps](#-next-steps)
@@ -38,8 +39,8 @@ This repository demonstrates **real-world RBAC (Role-Based Access Control)**, co
   [View AI in GRC & IAM](./access-review-ai.md)
 
 * **💻 IAM Policy as Code (Terraform)**
-    This directory contains the IaC skeleton for deploying **Conditional Access policies** to enforce access controls defined in the **RBAC Matrix**.
-    **[View IAM Policy Code](iam-policy-as-code)**
+This directory contains the IaC skeleton for deploying **Conditional Access policies** and defines a realistic *Training Records Analyst" IAM Role**. This demonstrates translating the complexity of the **RBAC Matrix** into automated, least-privilege role definition.
+**[View IAM Policy Code](iam-policy-as-code2)**
 
 ---
 
