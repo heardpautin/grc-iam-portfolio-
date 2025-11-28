@@ -20,3 +20,27 @@ resource "azurerm_conditional_access_policy" "enforce_mfa_admins" {
   # Configuration details would go here
 }
 */
+
+
+# main.tf - IAM Conditional Access Policy as Code
+
+# 1. Define the cloud provider (Azure)
+terraform {
+  required_providers {
+    azurerm = {
+      source  = "hashicorp/azurerm"
+      version = "~> 3.0"
+    }
+  }
+}
+
+# 2. Define the policy resource (currently commented out)
+/*
+resource "azurerm_conditional_access_policy" "enforce_mfa_admins" {
+  # This policy enforces MFA for the 'IT Administrator' role 
+  # defined in the RBAC Matrix, aligned with ISO/NIST controls.
+  display_name = "MFA_Enforce_Privileged_Roles"
+  
+  # Configuration details would go here
+}
+*/
