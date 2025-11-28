@@ -1,0 +1,10 @@
+{
+  "actions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+    "Microsoft.Compute/virtualMachines/read",
+    "Microsoft.KeyVault/vaults/secrets/read"
+  ],
+  "data_actions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read"
+  ]
+}
